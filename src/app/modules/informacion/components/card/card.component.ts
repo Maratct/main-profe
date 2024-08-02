@@ -7,7 +7,7 @@ import { Card } from 'src/app/models/card'
   styleUrls: ['./card.component.css']
 })
 export class CardComponent {
-//
+// comentario
 public info: Card[];
 
 constructor(){
